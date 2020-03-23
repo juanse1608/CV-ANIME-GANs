@@ -135,3 +135,5 @@ Images/*
 Images/
 .DS_Store
 .ds_store
+*/runs/
+*runs/*
