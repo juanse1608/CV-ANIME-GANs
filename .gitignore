@@ -133,6 +133,8 @@ dmypy.json
 #
 Images/*
 Images/
+Generated\ Images/
+Generated\ Images/*
 .DS_Store
 .ds_store
 */runs/
